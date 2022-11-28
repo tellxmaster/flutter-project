@@ -1,0 +1,47 @@
+[
+    {
+        "code": "166585",
+        "price": "16.85",
+        "name": "Mesa desplegable",
+        "size": "1.66 m",
+        "colo": "azul",
+        "descripcion": "mesa ajudjejuiwe",
+        "photo": "166585"
+    },
+    {
+        "code": "166586",
+        "price": "1.85",
+        "name": "Computadora",
+        "size": "16 pulg.",
+        "colo": "rojo",
+        "descripcion": "pc de escritorio",
+        "photo": "166585"
+    },
+    {
+        "code": "166586",
+        "price": "1.85",
+        "name": "Computadora",
+        "size": "16 pulg.",
+        "colo": "rojo",
+        "descripcion": "pc de escritorio",
+        "photo": "166585"
+    },
+    {
+        "code": "166586",
+        "price": "1.85",
+        "name": "Computadora",
+        "size": "16 pulg.",
+        "colo": "rojo",
+        "descripcion": "pc de escritorio",
+        "photo": "166585"
+    },
+    {
+        "code": "166586",
+        "price": "1.85",
+        "name": "Computadora",
+        "size": "16 pulg.",
+        "colo": "rojo",
+        "descripcion": "pc de escritorio",
+        "photo": "166585"
+    }
+]
