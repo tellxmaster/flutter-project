@@ -12,6 +12,6 @@ class formMensaje01 extends StatefulWidget {
 class _formMensaje01State extends State<formMensaje01> {
   @override
   Widget build(BuildContext context) {
-    return const Center(child: (Text('Hola Formulario01')));
+    return const Center(child: (Text('Holxa Formulario01')));
   }
 }

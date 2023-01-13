@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:untitled1/src/widgets/form_api.dart';
 import 'package:untitled1/src/widgets/list_products.dart';
 import 'package:untitled1/src/widgets/widget.opcion01.dart';
 import 'package:untitled1/src/widgets/widget.opcion02.dart';
@@ -46,7 +47,7 @@ class _MyHomePageState extends State<MyHomePage> {
   ];
 
   static const List<Widget> _content = <Widget>[
-    formMensaje01(),
+    formAPI2(),
     formMensaje02(),
     ListProducts(),
   ];
